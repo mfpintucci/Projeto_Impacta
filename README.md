@@ -37,7 +37,7 @@ O objetivo deste projeto é aplicar os conhecimentos adquiridos ao longo do curs
 
 ## 📬 Contato
 Caso tenha dúvidas ou sugestões, entre em contato:
-- **Email:** marianepintucci@yahoo.com.br ; debora.soares@aluno.faculdadeimpacta.com.br
+- **Email:** marianepintucci@yahoo.com.br ; contato.deborags@gmail.com
 - **LinkedIn:** [Mariane Ferraresi Pintucci](https://www.linkedin.com/in/marianepintucci)
 - **LinkedIn:** [Débora Soares](https://www.linkedin.com/in/d%C3%A9bora-soares-014b24203/)
 - **GitHub:** [Mariane Pintucci](https://github.com/mfpintucci)
