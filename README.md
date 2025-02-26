@@ -10,6 +10,8 @@ Este repositório contém o projeto desenvolvido como Trabalho de Conclusão de 
 ## 🎯 Objetivo
 O objetivo deste projeto é aplicar os conhecimentos adquiridos ao longo do curso na resolução de um problema real por meio do desenvolvimento de uma solução baseada em tecnologia.
 
+Esta solução é focada em Analisar os dados de um (comercio que vamos usar), Com ele podemos ter uma visão, dos lucros, produtos vendidos, cargos vagos na empresa, vendedores que vendem mais... E com os resultados podemos nos basear em melhorias para a empresa.
+
 ## 🛠️ Tecnologias Utilizadas
 - **Linguagem de Programação:** Python
 - **Ferramentas de Análise de Dados:** Pandas, Power BI
