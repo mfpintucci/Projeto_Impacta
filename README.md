@@ -5,7 +5,7 @@ Este repositório contém o projeto desenvolvido como Trabalho de Conclusão de 
 
 ### 👥 Equipe
 - **Mariane Ferraresi Pintucci** RA 2300031  
-- **Débora Soares** RA ____________
+- **Débora Soares** RA 2300664
 
 ## 🎯 Objetivo
 O objetivo deste projeto é aplicar os conhecimentos adquiridos ao longo do curso na resolução de um problema real por meio do desenvolvimento de uma solução baseada em tecnologia.
@@ -37,7 +37,7 @@ O objetivo deste projeto é aplicar os conhecimentos adquiridos ao longo do curs
 
 ## 📬 Contato
 Caso tenha dúvidas ou sugestões, entre em contato:
-- **Email:** marianepintucci@yahoo.com.br ; 
+- **Email:** marianepintucci@yahoo.com.br ; debora.soares@aluno.faculdadeimpacta.com.br
 - **LinkedIn:** [Mariane Ferraresi Pintucci](https://www.linkedin.com/in/marianepintucci)
 - **LinkedIn:** [Débora Soares](https://www.linkedin.com/in/d%C3%A9bora-soares-014b24203/)
 - **GitHub:** [Mariane Pintucci](https://github.com/mfpintucci)
