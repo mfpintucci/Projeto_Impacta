@@ -3,26 +3,39 @@
 ## 📌 Sobre o Projeto
 Este repositório contém o projeto desenvolvido como Trabalho de Conclusão de Curso (TCC) para a Faculdade Impacta de Tecnologia, apresentado como requisito final para a conclusão do curso de Análise e Desenvolvimento de Sistemas.
 
-### 👥 Equipe
-- **Mariane Ferraresi Pintucci** RA 2300031  
-- **Débora Soares** RA 2300664
+## 👥 Equipe
+- **Mariane Ferraresi Pintucci** - RA 2300031
+- **Débora Soares** - RA 2300664
 
 ## 🎯 Objetivo
-O objetivo deste projeto é aplicar os conhecimentos adquiridos ao longo do curso na resolução de um problema real por meio do desenvolvimento de uma solução baseada em tecnologia.
+O objetivo deste projeto é aplicar os conhecimentos adquiridos ao longo do curso na resolução de um problema real por meio da análise de dados.
 
-Esta solução é focada em Analisar os dados de um (comercio que vamos usar), Com ele podemos ter uma visão, dos lucros, produtos vendidos, cargos vagos na empresa, vendedores que vendem mais... E com os resultados podemos nos basear em melhorias para a empresa.
+Esta solução tem como foco a análise dos dados de um comércio, possibilitando uma visão clara sobre faturamento, desempenho de produtos, e insights estratégicos para a melhoria do negócio.
+
+## 📊 Etapas da Análise
+### **1° Entrega**
+- Análise do faturamento anual, mensal e diário de cada loja.
+- Identificação do produto mais vendido.
+- Cálculo do ticket médio do produto mais vendido.
+
+### **2° Entrega**
+- Identificação da loja com maior faturamento (anual, mensal e diário).
+- Identificação do produto com maior saída.
+- Identificação do produto com menor saída.
+
+### **3° Entrega**
+- Definição de estratégias baseadas nas análises para otimizar o desempenho das lojas com faturamento mais baixo.
 
 ## 🛠️ Tecnologias Utilizadas
-- **Linguagem de Programação:** Python
-- **Ferramentas de Análise de Dados:** Pandas, Power BI
-- **Frameworks e Bibliotecas:** Pandas
+- **Ferramentas de Análise de Dados:** Power BI
+- **Ambiente de Desenvolvimento:** Microsoft Power BI e Excel
 
 ## 📂 Estrutura do Repositório
-- **/codigo:** Contém o código-fonte do projeto.
-- **/documentacao:** Slides de apresentação, estrutura de dados e demais documentos apresentados no projeto
-- **/datasets:** Contém os conjuntos de dados utilizados
+- `/codigo`: Contém arquivos de suporte para a análise.
+- `/documentacao`: Slides de apresentação, estrutura de dados e demais documentos apresentados no projeto.
+- `/datasets`: Conjuntos de dados utilizados.
 
-## 🚀 Como Executar o Projeto
+## 🚀 Como Acessar o Projeto
 1. Clone este repositório:
    ```bash
    git clone https://github.com/mfpintucci/Projeto_Impacta.git
@@ -31,16 +44,12 @@ Esta solução é focada em Analisar os dados de um (comercio que vamos usar), C
    ```bash
    cd Projeto_Impacta
    ```
-3. Instale as dependências:
-   ```bash
-   pip install -r requirements.txt
-   ```
-4. Execute o projeto conforme instruções da documentação.
+3. Acesse os arquivos no Power BI para visualizar as análises.
 
 ## 📬 Contato
 Caso tenha dúvidas ou sugestões, entre em contato:
-- **Email:** marianepintucci@yahoo.com.br ; contato.deborags@gmail.com
-- **LinkedIn:** [Mariane Ferraresi Pintucci](https://www.linkedin.com/in/marianepintucci)
-- **LinkedIn:** [Débora Soares](https://www.linkedin.com/in/d%C3%A9bora-soares-014b24203/)
-- **GitHub:** [Mariane Pintucci](https://github.com/mfpintucci)
-- **GitHub:** [Débora Soares](https://github.com/Deborags)
+
+- **Email:** marianepintucci@yahoo.com.br | contato.deborags@gmail.com
+- **LinkedIn:** [Mariane Ferraresi Pintucci](https://www.linkedin.com/in/marianepintucci) | [Débora Soares](https://www.linkedin.com/in/deborasoares)
+- **GitHub:** [Mariane Pintucci](https://github.com/mfpintucci) | [Débora Soares](https://github.com/deborags)
+
